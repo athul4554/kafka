@@ -12,4 +12,6 @@
 
 - `docker compose up`
 
-- `uv run stream-store-kafka`
+- `uv run stream-store-kafka` to run producer file
+
+- `uv run python -m stream_store_kafka.tracker` to run tracker file
