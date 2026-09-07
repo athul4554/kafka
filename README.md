@@ -1,3 +1,6 @@
+###SETUP STEPS
+
+
 - install uv in your machine
   `curl -LsSf https://astral.sh/uv/install.sh | sh`
   
